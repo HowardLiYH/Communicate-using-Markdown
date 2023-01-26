@@ -9,3 +9,5 @@
 ##### Header with five '#'
 
 ###### Header with six '#'
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
